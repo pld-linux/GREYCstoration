@@ -9,6 +9,7 @@ Source0:	http://dl.sourceforge.net/cimg/%{name}-%{version}-src.zip
 # Source0-md5:	c650002008f91ee6409ac78452bc20a1
 URL:		http://cimg.sourceforge.net/greycstoration/
 BuildRequires:	gimp-devel >= 1:2.0.0
+BuildRequires:	unzip
 BuildRequires:	xorg-lib-libXext-devel
 BuildRequires:	xorg-lib-libXrandr-devel
 BuildRequires:	xorg-lib-libX11-devel
